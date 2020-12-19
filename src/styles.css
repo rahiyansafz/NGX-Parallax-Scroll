@@ -1,0 +1,6 @@
+body {
+	height: 200vh;
+  background-color: #5d218b;
+  background-image: linear-gradient(to right, #5d218b, #651fff);
+  overflow-x: hidden;
+}
